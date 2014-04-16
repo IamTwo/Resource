@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed TextHello\TextHello\bin\Debug\TextHello.exe
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed TextHello\TextHello\bin\Debug\TextHello.pdb
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed TextHello\TextHello\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed TextHello\TextHello\obj\Debug\TextHello.exe
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed TextHello\TextHello\obj\Debug\TextHello.pdb

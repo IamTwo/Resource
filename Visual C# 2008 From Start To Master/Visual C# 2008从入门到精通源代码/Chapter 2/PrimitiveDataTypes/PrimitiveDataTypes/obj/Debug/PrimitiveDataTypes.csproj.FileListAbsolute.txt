@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 2\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 2\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.pdb
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 2\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 2\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\Window1.baml
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 2\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 2\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\App.g.cs
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 2\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes_MarkupCompile.cache
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 2\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.g.resources
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 2\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 2\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 2\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.exe
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 2\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.pdb

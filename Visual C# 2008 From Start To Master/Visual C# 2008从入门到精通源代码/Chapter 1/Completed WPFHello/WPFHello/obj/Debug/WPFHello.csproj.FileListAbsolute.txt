@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed WPFHello\WPFHello\bin\Debug\WPFHello.exe
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed WPFHello\WPFHello\bin\Debug\WPFHello.pdb
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed WPFHello\WPFHello\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed WPFHello\WPFHello\obj\Debug\Window1.baml
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed WPFHello\WPFHello\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed WPFHello\WPFHello\obj\Debug\App.g.cs
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed WPFHello\WPFHello\obj\Debug\WPFHello_MarkupCompile.cache
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed WPFHello\WPFHello\obj\Debug\WPFHello.g.resources
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed WPFHello\WPFHello\obj\Debug\WPFHello.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed WPFHello\WPFHello\obj\Debug\WPFHello.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed WPFHello\WPFHello\obj\Debug\WPFHello.exe
+C:\Documents and Settings\Administrator\桌面\Visual CSharp Step By Step\Chapter 1\Completed WPFHello\WPFHello\obj\Debug\WPFHello.pdb
