@@ -11,12 +11,12 @@ namespace Delegates
 
         public void Start()
 		{
-            // To do
+            pulsed.Add(this.RefreshTime);
         }
 
 		public void Stop()
 		{
-            // To do
+            pulsed.Remove(this.RefreshTime);
         }
 
 		private void RefreshTime(int hh, int mm, int ss)
